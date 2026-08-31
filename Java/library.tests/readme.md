@@ -6,7 +6,7 @@ The logic for the decryption of the element is presented in net.bankid.merchant.
 You can run the tests either from your IDE (e.g. Eclipse, InteliJ IDEA Community Edition etc.) or by running the 'mvn clean test' command.
 
 ## Prerequisites
-1. Merchant Library source code (version 1.2.6 or above) from the GitHub Repository: https://github.com/Currence-Online/iDIN-libraries-java/tree/master/Java
+1. Merchant Library source code (version 1.2.6 or above) from the GitHub Repository: https://github.com/belgianmobileid-idin/iDIN-libraries-java/tree/master/Java
 2. Maven
 3. JDK 1.8
 4. A suitable IDE for Java Development (e.g. Eclipse, InteliJ IDEA Community Edition etc.)
